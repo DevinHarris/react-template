@@ -6,11 +6,11 @@
 
 > Techologies in this stack:
 
-    1. React
-    2. Webpack
-    3. NPM Scripts
-    	1. `"build": "webpack"`: Compiles your code down to code Modern Browsers understand.
-    	2. `"pro-build"`: "webpack -p": Same as `"build": "webpack"`, but builds for production
-    	3. "dev": "webpack-dev-server": Spins up Webpack Dev Server.
-    	4. "ext-dev": "webpack-dev-server --host 0.0.0.0": Spins up Weback Dev Server, but can be accessed from external devices connected to your network.
-    4. Sass (SCCS)
+1. React
+2. Webpack
+3. NPM Scripts
+   1. `"build": "webpack"`: Compiles your code down to code Modern Browsers understand.
+   2. `"pro-build"`: "webpack -p": Same as `"build": "webpack"`, but builds for production
+   3. "dev": "webpack-dev-server": Spins up Webpack Dev Server.
+   4. "ext-dev": "webpack-dev-server --host 0.0.0.0": Spins up Weback Dev Server, but can be accessed from external devices connected to your network.
+4. Sass (SCCS)
