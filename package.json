@@ -5,7 +5,8 @@
 	"scripts": {
 		"build": "webpack",
 		"pro-build": "webpack -p",
-		"dev": "webpack-dev-server"
+		"dev": "webpack-dev-server",
+		"ext-dev": "webpack-dev-server --host 0.0.0.0"
 	},
 	"license": "MIT",
 	"dependencies": {
