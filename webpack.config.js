@@ -20,7 +20,8 @@ module.exports = {
 	devServer: {
 		publicPath: '/public/',
 		historyApiFallback: true,
-		https: true
+		https: true,
+		open: true
 	},
 
 	module: {
